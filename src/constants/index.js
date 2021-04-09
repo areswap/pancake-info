@@ -17,7 +17,7 @@ export const SUPPORTED_LIST_URLS__NO_ENS = [
 
 // hide from overview list
 export const OVERVIEW_TOKEN_BLACKLIST = [
-  '0x495c7f3a713870f68f8b418b355c085dfdc412c3',
+  '0x1c9135bC107F6b51e61C1c27f219203Df83Fea6d',
   '0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea',
   '0xe31debd7abff90b06bca21010dd860d8701fd901',
   '0xfc989fbb6b3024de5ca0144dc23c18a063942ac1',
